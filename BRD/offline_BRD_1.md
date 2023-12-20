@@ -6,7 +6,7 @@
 
 
 ## Introduction
-### Document Purpose
-### Intended Audience
-### Purpose of the Business Requirements
-### Business goals/objectives to be achieved
+### <Document Purpose>
+### <Intended Audience>
+### <Purpose of the Business Requirements>
+### <Business goals/objectives to be achieved>
