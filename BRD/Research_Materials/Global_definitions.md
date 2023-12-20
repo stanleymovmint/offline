@@ -66,5 +66,5 @@ Offline digital euro payments would provide cash-like levels of privacy, but, ju
 cash in a lost or stolen wallet, any digital euro stored locally on a lost or stolen device 
 would not be recoverable either from the Eurosystem or from the PSP.
 
-[^1]: With Consult Hyperion
+[^1]: With Consult Hyperion. https://www.bis.org/publ/othp64.pdf
 [^2]: https://www.ecb.europa.eu/paym/digital_euro/investigation/profuse/shared/files/dedocs/ecb.dedocs231018.en.pdf
