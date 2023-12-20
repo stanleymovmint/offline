@@ -15,7 +15,7 @@
    1. [Essential Use Case Diagram](#Essential_Use_Case_Diagram)
    2. [Essential Use Case Specifications](#Essential_Use_Case_Specifications)
    3. [Business Rules](#Business_Rules)
-4. 
+4. [Approval](#Approval)
 
 ## Introduction
 ### Document_Purpose
@@ -25,3 +25,15 @@
 ### Benefits/Rationale
 ### Stakeholders
 ### Dependencies_on_existing_systems
+### Assumptions
+
+## Requirements_Scope
+### In_Scope
+### Out_of_Scope
+
+## Functional_Requirements
+### Essential_Use_Case_Diagram
+### Essential_Use_Case_Specifications
+### Business_Rules
+
+## Approval
