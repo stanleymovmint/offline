@@ -2,6 +2,25 @@
 The ability to make payments offline means being able to use a CBDC without being connected to the internet, either temporarily or because of coverage limitations. 
 [^1]
 
+### Offline
+Not controlled by or directly connected to a computer or external network. For 
+CBDC, this refers to being disconnected from CBDC ledger systems, not 
+necessarily disconnected from communication networks.
+
+### Offline payment
+A transfer of value between devices that takes place without requiring 
+connection to any ledger system.
+
+### Staged offline
+Where the payer and payee do not need to connect to a ledger system in order 
+to exchange value, but the value exchanged is not finally settled on the payee 
+until the payee connects to the ledger system. Value transferred to the payee 
+cannot be spent until this second stage of online settlement has occurred.
+
+### Offline CBDC system
+A payment app or card-based payment system offered by the central bank that 
+would not require a continuous connection to CBDC ledger systems.
+
 ### Fully offline system
 System in which the payer and payee do not need to connect to a ledger system
 (though there could be a local on-device ledger) to complete a payment, and 
