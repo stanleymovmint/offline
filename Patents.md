@@ -1,3 +1,5 @@
+https://patents.justia.com/search?q=SYSTEM+FOR+OFFLINE+PAYMENT
+
 + Nov 4, 2021 - MASTERCARD INTERNATIONAL INCORPORATED
 https://patents.justia.com/patent/11636466
 
