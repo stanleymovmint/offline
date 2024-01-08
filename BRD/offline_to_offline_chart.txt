@@ -1,0 +1,26 @@
+title Offline Wallet to Offline Wallet
+
+participant Payer
+participant Payee
+
+
+Payer->Payer:Initiate transfer by entering amount, payee ID. Transaction ID generated
+
+Payer->Payer:Payer balance deducted
+
+Payer->Payee:Communicate transaction ID (e.g. show interface or NFC)
+
+
+
+loop while incorrect ID entered
+Payee -> Payee: Enter transaction ID
+end
+
+alt correct ID
+Payee->Payee:Payee balance increased
+else lost ID
+note over Payee:Torn transaction
+end
+
+
+
